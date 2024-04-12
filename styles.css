@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#title{
+    padding:10%;
+    background:#222024;
+}
+.first{
+    padding:5%;
+}
+.second{
+    padding:5%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+h1{
+    font-size:3.4rem;
+    color:orangered;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+span{
+    color:white;
+}
+.min,.hou,.sec{
+
+    padding:15%;
+    background:rgb(8, 8, 8);
+    margin:1%;
+    border-radius:20px;
+}
+h2{
+    color:whitesmoke;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
